@@ -9,7 +9,7 @@
     "start": "webpack-dev-server --mode production --open"
   },
   "browserslist": "> 0.25%, not dead",
-  "author": "Andrey <a@mail.ru>",
+  "author": "Andrey <reihen1357@mail.ru>",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.17.10",
